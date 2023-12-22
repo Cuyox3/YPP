@@ -1,0 +1,14 @@
+div.logo_header {
+    background-color: red;
+    height: 100px;
+  }
+
+  div.idiomas-secciones {
+    background-color: blue;
+    height: 100px;
+  }
+
+  img.logo-header {
+    width: 150px;
+    height: 150px;
+  }
