@@ -27,10 +27,46 @@ div.logo_header {
   }
 
   aside {
-    width: 200px;
-    height: 200px;
+    width: auto;
+    height: auto;
     float: right;
     margin: 10px;
     padding: 20px;
     background-color: aqua;
+  }
+
+  section.cuadro-principal {
+    background-color: blueviolet;
+
+  }
+
+  section.div-pacto  {
+    background-color: coral;
+
+  }
+
+  div.ramas  {
+    background-color: grey;
+
+  }
+
+  div.rama_1 {
+    background-color: hotpink;
+  }
+
+  div.rama_2 {
+    background-color: olivedrab;
+  }
+  div.rama_3 {
+    background-color: orange;
+  }
+
+  div.carrusel{
+    background-color: cornflowerblue;
+    width: 500px ;
+  }
+
+  footer{
+    background-color: black;
+    color: white;
   }
