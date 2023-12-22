@@ -3,12 +3,34 @@ div.logo_header {
     height: 100px;
   }
 
-  div.idiomas-secciones {
+  div.idiomas {
     background-color: blue;
     height: 100px;
   }
 
+  div.secciones {
+    background-color: yellow;
+    height: 100px;
+  }
+
+
   img.logo-header {
-    width: 150px;
-    height: 150px;
+    width: 140px;
+    height: 100px;
+  }
+
+  
+  
+  img.ods-4-Image {
+    width: 140px;
+    height: 100px;
+  }
+
+  aside {
+    width: 200px;
+    height: 200px;
+    float: right;
+    margin: 10px;
+    padding: 20px;
+    background-color: aqua;
   }
