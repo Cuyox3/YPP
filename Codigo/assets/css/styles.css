@@ -63,8 +63,9 @@ div.logo_header {
 
   div.carrusel{
     background-color: cornflowerblue;
-    width: 500px ;
-  }
+    width: 250px ;
+    height: 150px;
+    }
 
   footer{
     background-color: black;
