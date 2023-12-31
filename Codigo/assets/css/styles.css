@@ -1,3 +1,4 @@
+/* Header */
 header .header-container {
     background-color: white;
     border-style: solid;
@@ -10,7 +11,7 @@ div.logo_header {
   }
 
   div.idiomas {
-    background-color: blue;
+    /* background-color: blue; */
     height: 100px;
   }
 
@@ -32,13 +33,19 @@ div.logo_header {
     height: 100px;
   }
 
-  aside {
-    width: auto;
-    height: auto;
-    float: right;
+/* Main */
+
+  .fixed-div-object {
+    background-color: white;
+    border-style: solid;
+    border-color: aqua;
+    position: fixed;
+    right: 0;
     margin: 10px;
     padding: 20px;
-    background-color: aqua;
+    width: 270px;
+    height: auto; 
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   }
 
   section.cuadro-principal {
@@ -72,7 +79,7 @@ div.logo_header {
     width: auto ;
     height: 100px;
     }
-
+/* Footer */
   footer{
     background-color: black;
     color: white;
