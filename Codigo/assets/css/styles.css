@@ -38,14 +38,18 @@ div.logo_header {
   .fixed-div-object {
     background-color: white;
     border-style: solid;
-    border-color: aqua;
+    border-color: #aecfe6;
     position: fixed;
     right: 0;
     margin: 10px;
     padding: 20px;
-    width: 270px;
+    width: 400px;
     height: auto; 
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+  .fixed-div-object p {
+    border-style: solid;
+    border-color: #699cc6;
   }
 
   section.cuadro-principal {
