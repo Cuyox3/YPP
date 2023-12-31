@@ -1,5 +1,11 @@
+header .header-container {
+    background-color: white;
+    border-style: solid;
+    border-color: red;
+}
+
 div.logo_header {
-    background-color: red;
+    background-color: white;
     height: 100px;
   }
 
